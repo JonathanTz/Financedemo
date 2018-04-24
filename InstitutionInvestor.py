@@ -3,7 +3,7 @@
 
 # In[1]:
 
-
+###edited
 ##上市公司公司三大法人紀錄
 import pandas as pd
 import requests
