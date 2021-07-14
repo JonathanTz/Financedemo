@@ -1,5 +1,6 @@
 
 # coding: utf-8
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjExZmJiYTUtODg3Zi00YzIxLWI2NWUtMGJjN2M4NDkzY2U4%40thread.v2/0?context=%7b%22Tid%22%3a%220b9b90da-3fe1-457a-b340-f1b67e1024fb%22%2c%22Oid%22%3a%2232b669ba-f499-4cf4-8156-f7c35a413670%22%7d
 # In[1]:
 
 ###edited
