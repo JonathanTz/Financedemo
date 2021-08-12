@@ -1,7 +1,7 @@
 
 # coding: utf-8
 # In[1]:
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzY3YzQ4YTItMDliYy00NThhLWI5ZDUtZDUwNDgyZDZmNmY5%40thread.v2/0?context=%7b%22Tid%22%3a%220b9b90da-3fe1-457a-b340-f1b67e1024fb%22%2c%22Oid%22%3a%2223b0fc0d-bbfa-41ca-81f7-8d8d0ed01501%22%7d
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODFmMDA5N2EtZjQxOS00NzQyLWEyNjktM2Q3ZjgxMjcxZDU4%40thread.v2/0?context=%7b%22Tid%22%3a%220b9b90da-3fe1-457a-b340-f1b67e1024fb%22%2c%22Oid%22%3a%2232b669ba-f499-4cf4-8156-f7c35a413670%22%7d
 ###edited
 ##上市公司公司三大法人紀錄
 import pandas as pd
