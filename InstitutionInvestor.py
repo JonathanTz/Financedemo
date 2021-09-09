@@ -2,6 +2,7 @@
 # coding: utf-8
 # In[1]:
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODFmMDA5N2EtZjQxOS00NzQyLWEyNjktM2Q3ZjgxMjcxZDU4%40thread.v2/0?context=%7b%22Tid%22%3a%220b9b90da-3fe1-457a-b340-f1b67e1024fb%22%2c%22Oid%22%3a%2232b669ba-f499-4cf4-8156-f7c35a413670%22%7d
+https://eur02.safelinks.protection.outlook.com/ap/t-59584e83/?url=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_ODFmMDA5N2EtZjQxOS00NzQyLWEyNjktM2Q3ZjgxMjcxZDU4%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25220b9b90da-3fe1-457a-b340-f1b67e1024fb%2522%252c%2522Oid%2522%253a%252232b669ba-f499-4cf4-8156-f7c35a413670%2522%257d&data=04%7C01%7CEva.Kuo%40finastra.com%7C0e2349b8bfb84a26ce8508d9729e199a%7C0b9b90da3fe1457ab340f1b67e1024fb%7C0%7C0%7C637666846572406574%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=NnFZrW%2FwrWVq4m1N6cqPe3pn2XOnhUCNOly1z46cWTA%3D&reserved=0    
 ###edited
 ##上市公司公司三大法人紀錄
 import pandas as pd
