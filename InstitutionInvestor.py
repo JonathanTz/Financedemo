@@ -1,7 +1,7 @@
 
 # coding: utf-8
 # In[1]:
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTEzZGNlOTktOTczZS00YWQ1LTlhMmQtOTAxZDdlYzFhNzdl%40thread.v2/0?context=%7b%22Tid%22%3a%220b9b90da-3fe1-457a-b340-f1b67e1024fb%22%2c%22Oid%22%3a%2298c3c492-3415-496a-aa3a-8340a7802c2f%22%7d
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjE2Y2RmOTAtZGI2Zi00MGQ1LWFlMDUtMmQwNGFiNGUwNTFh%40thread.v2/0?context=%7b%22Tid%22%3a%220b9b90da-3fe1-457a-b340-f1b67e1024fb%22%2c%22Oid%22%3a%2232b669ba-f499-4cf4-8156-f7c35a413670%22%7d
 https://amberliu-glx.my.webex.com/amberliu-glx.my/j.php?MTID=m1b52761f10c5b259b08c9f0296c20553
 ###edited
 ##上市公司公司三大法人紀錄
