@@ -2,7 +2,7 @@
 # coding: utf-8
 # In[1]:
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjdiYWE5MDktNGRkMS00MTU2LWEyYzItYzhkYmM2NjBkYWUy%40thread.v2/0?context=%7b%22Tid%22%3a%220b9b90da-3fe1-457a-b340-f1b67e1024fb%22%2c%22Oid%22%3a%2232b669ba-f499-4cf4-8156-f7c35a413670%22%7d
-https://amberliu-glx.my.webex.com/amberliu-glx.my/j.php?MTID=m1b52761f10c5b259b08c9f0296c20553
+https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_M2ZmMDQxMzAtOTEwNS00N2NiLTk1ZDYtODllMWYxNGQxZTk4%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%252272f988bf-86f1-41af-91ab-2d7cd011db47%2522%252c%2522Oid%2522%253a%2522ed80446e-2f9b-44a7-a3ac-dcbbb4a519c3%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=a3def552-c77e-4066-ade2-39097899df52&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
 https://firstbank079.webex.com/firstbank079-tc/j.php?MTID=m94bcb88d8e278aba0c2df52d97d9db3b
 ###edited
 ##上市公司公司三大法人紀錄
